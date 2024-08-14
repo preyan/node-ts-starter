@@ -1,13 +1,13 @@
-# 🚀 AI Chatbot Customer Service Backend
+# 🚀 Node Typescript Starter
 
-[![Build](https://github.com/Indian-Aspirant/ai-chatbot-customer-service-backend/actions/workflows/build.yml/badge.svg)](https://github.com/Indian-Aspirant/ai-chatbot-customer-service-backend/actions/workflows/build.yml)
-[![Test](https://github.com/Indian-Aspirant/ai-chatbot-customer-service-backend/actions/workflows/test.yml/badge.svg)](https://github.com/Indian-Aspirant/ai-chatbot-customer-service-backend/actions/workflows/test.yml)
-[![Code Quality](https://github.com/Indian-Aspirant/ai-chatbot-customer-service-backend/actions/workflows/code-quality.yml/badge.svg)](https://github.com/Indian-Aspirant/ai-chatbot-customer-service-backend/actions/workflows/code-quality.yml)
-[![Docker Image CI](https://github.com/Indian-Aspirant/ai-chatbot-customer-service-backend/actions/workflows/docker-image.yml/badge.svg)](https://github.com/Indian-Aspirant/ai-chatbot-customer-service-backend/actions/workflows/docker-image.yml)
+[![Build](https://github.com/preyan/node-ts-starter/actions/workflows/build.yml/badge.svg)](https://github.com/preyan/node-ts-starter/actions/workflows/build.yml)
+[![Test](https://github.com/preyan/node-ts-starter/actions/workflows/test.yml/badge.svg)](https://github.com/preyan/node-ts-starter/actions/workflows/test.yml)
+[![Code Quality](https://github.com/preyan/node-ts-starter/actions/workflows/code-quality.yml/badge.svg)](https://github.com/preyan/node-ts-starter/actions/workflows/code-quality.yml)
+[![Docker Image CI](https://github.com/preyan/node-ts-starter/actions/workflows/docker-image.yml/badge.svg)](https://github.com/preyan/node-ts-starter/actions/workflows/docker-image.yml)
 
 ## 🌟 Introduction
 
-This project is a backend service for an AI chatbot customer service application. It is built with Express.js and TypeScript, providing a scalable and maintainable architecture for rapid development. 
+This project serves as a boilerplate for creating professional Node REST APIs. It is built with Express.js and TypeScript, providing a scalable and maintainable architecture for rapid development. 
 
 ## 💡 Code Structure
 
@@ -102,8 +102,8 @@ This project structure aims to:
 
 #### Step 1: 🚀 Initial Setup
 
-- Clone the repository: `git clone https://github.com/Indian-Aspirant/ai-chatbot-customer-service-backend.git`
-- Navigate: `cd ai-chatbot-customer-service-backend`
+- Clone the repository: `git clone https://github.com/preyan/node-ts-starter.git`
+- Navigate: `cd node-ts-starter`
 - Install dependencies: `npm ci`
 
 #### Step 2: ⚙️ Environment Configuration
